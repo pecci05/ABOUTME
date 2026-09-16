@@ -1,0 +1,11 @@
+h1{
+    position: relative;
+    color: #00FFB3;
+    border: 1px solid aqua;
+    
+}
+
+#main{
+    background-color: #004CFF;
+    height: 100%
+}
